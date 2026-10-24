@@ -1,0 +1,8 @@
+fastapi>=0.116,<1
+uvicorn>=0.35,<1
+pydantic>=2.11,<3
+psycopg[binary]>=3.2,<4
+python-dotenv>=1.0,<2
+pyserial>=3.5,<4
+pywin32>=311; platform_system == "Windows"
+Pillow>=10.0,<13
